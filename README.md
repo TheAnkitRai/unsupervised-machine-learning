@@ -1,4 +1,4 @@
-# Unsupervised Mmachine Learning
+# Unsupervised Machine Learning
 
 ## Prediction of optimum number of clusters and representing it visually.
 
